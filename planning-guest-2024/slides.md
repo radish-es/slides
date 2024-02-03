@@ -58,7 +58,7 @@ Going to do:
 
 ![](sticks.jpg)
 
-<small>The "bundle of sticks"</small>
+<small>Property as a "bundle of sticks"</small>
 
 <aside class="notes">
 
