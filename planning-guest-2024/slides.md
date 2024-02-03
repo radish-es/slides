@@ -6,6 +6,8 @@ slideNumber: false
 title: "Property, Planning and Takings"
 separator: ---
 verticalSeparator: --
+revealOptions:
+  transition: 'fade'
 ---
 
 ![](cogswell.jpg)
