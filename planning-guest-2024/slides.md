@@ -4,6 +4,8 @@ theme: "night"
 transition: "slide"
 slideNumber: false
 title: "Property, Planning and Takings"
+separator: ---
+verticalSeparator: --
 ---
 
 ![](cogswell.jpg)
