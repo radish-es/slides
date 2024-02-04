@@ -58,11 +58,11 @@ Going to do:
 
 ![](sticks.jpg)
 
-<small>Property as a "bundle of sticks"?</small>
+<small>Property as a "bundle of sticks"</small>
 
 <aside class="notes">
 
-- Used to describe "ownership"
+- Concept used to describe "ownership"
 - Helpful for understanding the *de facto* "takings" problem
 - Does the bundle include limits/obligations (per *Mariner*)?
 
