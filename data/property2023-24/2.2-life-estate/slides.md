@@ -10,6 +10,12 @@ revealOptions:
   transition: 'fade'
 ---
 
+# Class 2.2
+
+Life Estate
+
+--
+
 ## Life Estate
 
 ![](purchase-limitation-life.jpg)
