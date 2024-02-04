@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>Test</title>
+    <link rel="shortcut icon" href="./favicon.ico" />
+    <link rel="stylesheet" href="./dist/reset.css" />
+    <link rel="stylesheet" href="./dist/reveal.css" />
+    <link rel="stylesheet" href="./dist/theme/night.css" id="theme" />
+    <link rel="stylesheet" href="./css/highlight/base16/zenburn.css" />
+
+
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section data-markdown data-separator="---" data-separator-vertical="--">
+          <textarea data-template>
+            
+
+## Life Estate
+
+![](purchase-limitation-life.jpg)
+
+--
+
+### X Holds *Reversion*
+
+X grants: "To A for Life"
+
+--
+
+### B Holds *Remainder*
+
+X grants: "To A for life, then to B"
+
+--
+
+### What do B and C hold?
+
+X grants: "To A for life, then to B for life, then to C"
+
+--
+
+## Doctrine of Waste
+
+How to prevent the life tenant from depleting the value of the estate (recall *Ellickson*)?
+
+---
+
+## Interpretation and Construction
+
+--
+
+## A Puzzle
+
+X grants: "To A and their heirs, then to B and their heirs." 
+
+--
+
+### *Re Walker* (1924)
+
+> “I give and devise unto my said wife all my real and personal property ... and also should any portion of my estate still remain in the hands of my said wife at the time of her decease undisposed of by her, such remainder shall be divided as follows ...”
+
+--
+
+### *Re Taylor* (1982)
+
+> “I give, devise and bequeath all my real and personal estate of which I die possessed to my wife Kate ... to have and use during her lifetime ... Any estate of which she may be possessed at the time of her death is to be divided equally between my daughters ...”
+
+--
+
+### *Christensen v Martini Estate* (1999) 
+
+> “I give to my wife ... 2203 31 Ave ... for her use. When she no longer needs 2203 31 Ave. ... that she give said property to Sandra and Sonya  ...”
+          </textarea>
+        </section>
+      </div>
+    </div>
+
+    <script src="./dist/reveal.js"></script>
+
+    <script src="./plugin/markdown/markdown.js"></script>
+    <script src="./plugin/highlight/highlight.js"></script>
+    <script src="./plugin/zoom/zoom.js"></script>
+    <script src="./plugin/notes/notes.js"></script>
+    <script src="./plugin/math/math.js"></script>
+    <script>
+      function extend() {
+        var target = {};
+        for (var i = 0; i < arguments.length; i++) {
+          var source = arguments[i];
+          for (var key in source) {
+            if (source.hasOwnProperty(key)) {
+              target[key] = source[key];
+            }
+          }
+        }
+        return target;
+      }
+
+      // default options to init reveal.js
+      var defaultOptions = {
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        slideNumber: true,
+        plugins: [
+          RevealMarkdown,
+          RevealHighlight,
+          RevealZoom,
+          RevealNotes,
+          RevealMath
+        ]
+      };
+
+      // options from URL query string
+      var queryOptions = Reveal().getQueryHash() || {};
+
+      var options = extend(defaultOptions, {"transition":"fade","_":["/Users/jamie/NextCloud/teaching/slides/data/property2023-24/2.2-life-estate/slides.md"],"static":"/Users/jamie/NextCloud/teaching/slides/data/property2023-24/2.2-life-estate/export"}, queryOptions);
+    </script>
+
+
+    <script>
+      Reveal.initialize(options);
+    </script>
+  </body>
+</html>
