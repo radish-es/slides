@@ -10,8 +10,12 @@ revealOptions:
   transition: 'fade'
 ---
 
-## This is a slide
+## This is a main slide
 
 --
 
-### This is another slide
+### Vertical slide belo
+
+---
+
+## Another main slide
