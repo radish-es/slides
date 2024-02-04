@@ -1,8 +1,12 @@
 ---
 theme: "night"
-customTheme : /Users/jamie/Templates/slides-generic/property_theme.css
+#customTheme : night_theme
 transition: "slide"
 slideNumber: false
+separator: ---
+verticalSeparator: --
+revealOptions:
+  transition: 'fade'
 title: "Class 2.1 - Fee Simple"
 ---
 
