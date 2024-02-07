@@ -98,7 +98,7 @@ X grants: "To A and their heirs, then to B and their heirs."
 Possible interpretations?
 
 - lower court: "for her use" is too uncertain, so Sandra and Sonya get a fee simple outright
-- ABCA: Martini gets a life estate, with a gift over to Sandra and Sonya -- court bases its conclusion on "intention of the testator from the will AND all the surrounding circumstances" = testator intended to benefit BOTH Martini and the Christensens 
+- ABCA: Martini gets a life estate, with a gift over to Sandra and Sonya - court bases its conclusion on "intention of the testator from the will AND all the surrounding circumstances" = testator intended to benefit BOTH Martini and the Christensens 
 
 Other options?
 
