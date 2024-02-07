@@ -3,7 +3,7 @@ theme: "night"
 #customTheme : night_theme
 transition: "slide"
 slideNumber: false
-title: "Test"
+title: "Life Estate"
 separator: ---
 verticalSeparator: --
 revealOptions:
@@ -15,6 +15,14 @@ revealOptions:
 Life Estate
 
 --
+
+## Agenda
+
+1. Review: Fee Simple
+2. Life Estate
+3. Construction & Interpretation: *Walker*, *Taylor*, *Christensen*
+
+---
 
 ## Life Estate
 
