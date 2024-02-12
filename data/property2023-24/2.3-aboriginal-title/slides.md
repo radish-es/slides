@@ -4,8 +4,8 @@ theme: "night"
 transition: "slide"
 slideNumber: false
 title: "Common Law Aboriginal Title"
-separator: ---
-verticalSeparator: --
+separator: "\n---\n"
+verticalSeparator: "\n--\n"
 revealOptions:
   transition: 'fade'
 ---
