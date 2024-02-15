@@ -1,9 +1,12 @@
 ---
 theme: "night"
-customTheme : competition_theme
 transition: "slide"
 slideNumber: false
-title: "Mergers II - Week 7"
+separator: "\n---\n"
+verticalSeparator: "\n--\n"
+revealOptions:
+  transition: "fade"
+title: "Mergers I - Week 7"
 ---
 
 ## Week 7
@@ -330,7 +333,9 @@ Gets at issue in *Tervita*: what is the PURPOSE of the efficiencies defence? Sho
 
 <aside class="notes">
 
-How to interpret "greater than" and "offset"? Is it enough that efficiencies quantitatively exceed effects? Or do efficencies need to be "more than marginal" (offset in some way)
+How to interpret "greater than" and "offset"? Is it enough that efficiencies quantitatively exceed effects? Or do efficiencies need to be "more than marginal" (offset in some way)
+
+BASIC ISSUE: which is more important, the "economists' approach" (Rothstein) or the "lawyers' approach" (Karakastanis)? 
 
 Rothstein in *Tervita*:
 
@@ -348,7 +353,7 @@ ASK: why isn't it paradoxical to find a substantial prevention of competition un
 
 - Seems to turn on the fact that Commissioner failed to translate factors used in s. 92 analysis into quantifiable deadweight loss 
 
-Result in this case is one where marginal "admininstrative" efficiency gains carry the day. Is this really what Parliament intended for s 96? 
+Result in this case is one where marginal "administrative" efficiency gains carry the day. Is this really what Parliament intended for s 96? 
 
 </aside>
 
