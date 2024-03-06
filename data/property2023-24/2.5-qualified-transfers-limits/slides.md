@@ -1,0 +1,112 @@
+---
+theme: "night"
+#customTheme : night_theme
+transition: "slide"
+slideNumber: false
+title: "Qualified Transfers"
+separator: ---
+verticalSeparator: --
+revealOptions:
+  transition: 'fade'
+---
+
+# Class 2.5
+
+Qualified Transfers (Limits)
+
+--
+
+## Agenda
+
+1. Review: Basics
+2. General Rules on Invalidity
+3. Public Policy
+4. Uncertainty
+5. Restraints on Alienation
+
+---
+
+## Two Questions
+
+1. When might conditional estates be invalid and for what reasons?
+
+2. What are the consequences of invalidity?
+
+--
+
+## General Rules: Consequences
+
+- **Condition Subsequent**: condition is struck down and transferee takes the estate absolutely
+
+- **Condition Precedent**: condition is struck down and consequence is that grantee can never take interest
+
+- **Determinable Limitation**: limitation is rendered invalid and entire transfer is defeated (i.e. transferee loses estate)
+
+---
+
+## Public Policy
+
+- *Re Leonard Foundation Trust*
+- *McCorkill v McCorkill Estate*
+- *Spence v BMO Trust Co.*
+
+--
+
+<small>
+
+1. “My entire estate to T in trust, to be distributed as scholarships tenable at any Canadian university to any member of the public who is white, male and Protestant.” (Leonard Foundation Trust)
+
+2. “My entire estate to T in trust, to be distributed as scholarships to any student at Memorial University who is enrolled in the School of Theology and who subscribes to the Protestant faith.” (Ramsden Estate)
+
+3. “To T in trust for my son and his grandchildren [where T pays the entire estate to the grandchildren because the son has not married a person of the Jewish faith].” (Fox)
+
+4. “My entire estate to the National Alliance [a well-known Neo-Nazi organization based in the United States].” (McCorkill)
+
+5. No bequest to the testator’s eldest daughter because she has had a child with a white man. (Spence v BMO)
+
+</small>
+
+<aside class="notes">
+
+- public vs private
+- conditional vs absolute
+- explicit discrimintory language vs discriminatory effect
+- character of the recipient
+
+</aside>
+
+--
+
+## Uncertainty
+
+- *H.J. Hayes Co. v. Meade*
+
+- *Fennell v Fennell* 
+
+--
+
+## Example Problem
+
+Imagine that you are making a will in which you want to leave your house in Halifax to your kid (who currently lives here) on the condition that they do not move away from the city.
+
+How would you draft this condition such that it is not uncertain?
+
+--
+
+### Legal standards for uncertainty
+
+**Conditions Precedent**: must be possible to say with certainty that any proposed beneficiary is or is not a member of the class, i.e. language must be capable of some reasonable meaning (Leonard Foundation Trust)
+
+**Conditions Subsequent / Determinable Limitations**: must be able to see from the beginning, precisely and distinctly, what events would trigger the condition (Re Downs)
+
+--
+
+### Cases
+
+<small>
+
+“To my son James … to reside on and cultivate the same. But should James desire not to reside on the property or cultivate it, then that portion to my son Harold if he pays James $1000.” (Hayes v Meade)
+
+“To my five named grandchildren”with the condition that all of my family can make use of the said house at any time without costs provided that they share in the upkeep of the said house." (Fennell v Fennell)
+
+</small>
