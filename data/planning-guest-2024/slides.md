@@ -10,6 +10,14 @@ revealOptions:
   transition: 'fade'
 ---
 
+## Property, Planning & "Takings"
+
+Jamie Baxter, Schulich School of Law
+
+Mar 11, 2024
+
+--
+
 ![](cogswell.jpg)
 
 <small>Construction of Cogswell Interchange, 1968. <br/> Source: Halifax Municipal Archives, 102-16N-0068.21</small>
@@ -28,11 +36,11 @@ revealOptions:
 
 - Several years of discussions between CPR and City about converting to light rail, but negotiations fell apart.
 
-- CPR explore parcelling off to private buyers; City enacted planning bylaw to limit use of corridor to "transportation uses"
+- CPR explores parcelling off to private buyers; City enacts planning bylaw to limit use of corridor to "transportation uses" but doesn't buy the land. 
 
 </aside>
 
----
+--
 
 ## *De facto* Expropriation 
 
@@ -40,13 +48,21 @@ revealOptions:
 
 <aside class="notes">
 
-Going to do:
+- Important legal issue for planners (e.g., impact of land-use regs) as a matter of "public law"
 
-- Property rights (planners need to understand)
-- Legal framework
-- Caselaw 
+- But also basically an issue of property rights: how "big" or "strong" are private rights to property in Canada? When can the state override those rights, through law, without at least paying owners for any harm they might suffer? 
+
+- From local govs perspective: much of this is about the COST of land-use regulation 
 
 </aside>
+
+--
+
+## Agenda:
+
+1. Property rights 
+2. Legal framework
+3. Caselaw 
 
 ---
 
@@ -58,11 +74,11 @@ Going to do:
 
 ![](sticks.jpg)
 
-<small>Property as a "bundle of sticks"</small>
+<small>The "bundle of sticks"</small>
 
 <aside class="notes">
 
-- Concept used to describe "ownership"
+- Used to describe "ownership"
 - Helpful for understanding the *de facto* "takings" problem
 - Does the bundle include limits/obligations (per *Mariner*)?
 
@@ -70,7 +86,7 @@ Going to do:
 
 ---
 
-## Legal Framework <i class="fa fa-box"></i>
+### Legal Framework for "Takings" 
 
 - constitution <i class="fa fa-check"></i>
 - legislation <i class="fa fa-check"></i>
@@ -79,9 +95,13 @@ Going to do:
 
 --
 
+#### Which section of the *Charter of Rights* protects private property rights in Canada?
+
+--
+
 ### <i class="fa fa-file"></i> *Expropriation Act*, RSNS 1989, c 156 
 
-> 24 Where land is expropriated, the statutory authority **shall** pay the owner compensation as is determined in accordance with this Act.
+> 24\. Where land is expropriated, the statutory authority **shall** pay the owner compensation as is determined in accordance with this Act.
 
 ---
 
