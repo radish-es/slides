@@ -35,6 +35,12 @@ Shared Ownership
 
 ![](concurrent.jpg)
 
+--
+
+### "Governance Property"
+
+- Link to colonialism themes (*universalism*, *ahistoricism*)
+
 ---
 
 ### Two types of shared interests:
