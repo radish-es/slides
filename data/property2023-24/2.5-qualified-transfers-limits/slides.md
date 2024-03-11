@@ -133,7 +133,7 @@ RESULT in both cases: CS is “struck down” and fee simple owner takes title a
 
 ---
 
-## Restraints on Alienation
+### Restraints on Alienation
 
 <small>
 
