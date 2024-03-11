@@ -70,7 +70,7 @@ Qualified Transfers (Limits)
 
 - public vs private
 - conditional vs absolute
-- explicit discrimintory language vs discriminatory effect
+- explicit discriminatory language vs discriminatory effect
 - character of the recipient
 
 </aside>
@@ -110,3 +110,63 @@ How would you draft this condition such that it is not uncertain?
 “To my five named grandchildren”with the condition that all of my family can make use of the said house at any time without costs provided that they share in the upkeep of the said house." (Fennell v Fennell)
 
 </small>
+
+<aside class="notes">
+
+CS vs CP:
+
+- First question in Hayes is whether CP or CS: court applies (i) presumption against intestacy; (ii) construction in favour of early vesting (McKeen)
+
+- If CP was found and rendered void, then gift fails completely. Since there is no residuary clause in the will, would be an intestacy.
+
+- Court’s conclusion is REINFORCED by the basic principle to pursue the testator’s INTENTION (Thomas v Murphy): testator clearly intended for son James to receive something (either the land OR the $1000), i.e. wanted to provide for his son
+
+Uncertainty:
+
+- Meade: two sources of uncertainty are: (i) the period of time within which the “residency requirement” must be met AND (ii) what residency entails (e.g. what if James left for short period of time?)
+
+- Fennell: two sources of uncertainty are: (i) definition of “family”; (ii) what amounts to adequate contribution to upkeep of house
+
+RESULT in both cases: CS is “struck down” and fee simple owner takes title absolutely.
+
+</aside>
+
+---
+
+## Restraints on Alienation
+
+<small>
+
+“…the Optionee shall have the option, irrevocable from the date of the death of the survivor of the Optionors until one month after receiving written notice of the death of such survivor, to purchase the said lands and premises. If the Optionee exercises such option the resultant purchase shall be for the price or sum of $9,375.” (Trinity College School v Lyons)
+
+</small>
+
+<aside class="notes">
+
+Recall: *Re walker* = absolute restraint on alienation is void
+
+TCS:
+
+- Agreement between Bennetts and TCS, granting TCS an EXCLUSIVE OPTION to purchase Bennetts’ land after death of the survivor (within 1 month of death) for fixed price ($9,375)
+
+- ISSUE: is this “post mortem option” an invalid restraint on alienation of the fee simple?
+
+- COURT SAYS: option for TCS to purchase fee simple is an INVALID restraint on alienation, so the option is invalid (and daughters take absolutely, i.e. free of the option)
+
+- Seems clear that a simple right of first refusal — in which anyone else could match price — would be VALID
+
+- Part of problem is that option to TCS specified a REDUCED price ($9k vs $135k)
+
+- BUT: similar condition in Stephens v Gulf Oil was found valid ("Palen gives Stephens a right of first refusal of Palen’s land at fixed price of $64k)
+
+- Court: restraint in Trinity College is DIFFERENT because it REQUIRES executrix to sell the land if TCS exercises the option (condition in Stephens was only right of refusal if Palen chose to sell at some point in the future)
+
+So — two problems with TCS condition:
+
+- Fixed price way below market value 
+
+- Coercive condition such that executrix must sell if TCS choses to buy 
+
+BASIC Principle = something less than “absolute” restraint on alienation may also be invalid
+
+</aside>
