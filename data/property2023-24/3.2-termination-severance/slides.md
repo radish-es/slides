@@ -117,7 +117,7 @@ Unilateral Act:
 
 - Marrian unilaterally DECLARED that creating the trust severed JT, but no evidence that came to attention of husband … unilateral declaration alone is not enough to sever the LEGAL title
 
-BUT, even though creation of trust was insufficient unilateral act to several the LEGAL RoS, the PRESUMPTION OF ADVANCEMENT operates (negates presumption of resulting trust to Marrian alone) to vest BENEFICIAL shared interest in son
+BUT, even though creation of trust was insufficient unilateral act to sever the LEGAL RoS, the creation of this trust worked to vest the BENEFICIAL INTEREST in the land in the sone.
 
 This equitable TRANSFER to the son is sufficient to sever the equitable JT
 
@@ -165,7 +165,7 @@ KEY QUESTION re partition: under what circumstances should one of the co-owners 
 
 E.g. I hold a 1/100th interest in a piece of land and I apply to have the land partitioned, irrespective of the costs this might impose on others or their wishes.
 
-Law today has taken a very liberal approach to questions of exit — in Greenbanktree, court authorized partition irrespective of the size/proportion of the co-owner’s share seek partition
+Law today has taken a very liberal approach to questions of exit.
 
 Minority owners would only be prevented from forcing a partition where it amounts to “malicious, oppressive or vexatious conduct”
 
