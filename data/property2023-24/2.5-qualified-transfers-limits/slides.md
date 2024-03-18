@@ -4,8 +4,8 @@ theme: "night"
 transition: "slide"
 slideNumber: false
 title: "Qualified Transfers"
-separator: ---
-verticalSeparator: --
+separator: "\n---\n"
+verticalSeparator: "\n--\n"
 revealOptions:
   transition: 'fade'
 ---

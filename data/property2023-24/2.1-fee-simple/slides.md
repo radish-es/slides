@@ -3,8 +3,8 @@ theme: "night"
 #customTheme : night_theme
 transition: "slide"
 slideNumber: false
-separator: ---
-verticalSeparator: --
+separator: "\n---\n"
+verticalSeparator: "\n--\n"
 revealOptions:
   transition: 'fade'
 title: "Class 2.1 - Fee Simple"

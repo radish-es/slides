@@ -143,11 +143,11 @@ As we saw in the Loblaws example, this can be hard to prove and often acts as a 
 
 <small style="text-align: left;">
 
-79 (1) On application by the Commissioner or a person granted leave under section 103.‍1, if the Tribunal finds that one or more persons substantially or completely control a class or species of business throughout Canada or any area of Canada, it may make an order prohibiting the person or persons from engaging in a practice or conduct if it finds that the person or persons have engaged in or are engaging in
+79 (1) On application by the Commissioner or a person granted leave under section 103. 1, if the Tribunal finds that one or more persons substantially or completely control a class or species of business throughout Canada or any area of Canada, it may make an order prohibiting the person or persons from engaging in a practice or conduct if it finds that the person or persons have engaged in or are engaging in
 
-(a) a **practice** of anti-competitive acts; **or**
+(a) a **practice** of anti-competitive acts; **or**
 
-(b) **conduct** (i) that had, is having or is likely to have the effect of preventing or lessening competition substantially in a market in which the person or persons have a plausible competitive interest, **and** (ii) the effect is not a result of superior competitive performance.
+(b) **conduct** (i) that had, is having or is likely to have the effect of preventing or lessening competition substantially in a market in which the person or persons have a plausible competitive interest, **and** (ii) the effect is not a result of superior competitive performance.
 
 </small>
 

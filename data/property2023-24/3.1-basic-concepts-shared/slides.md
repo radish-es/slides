@@ -4,8 +4,8 @@ theme: "night"
 transition: "slide"
 slideNumber: false
 title: "Shared Ownership"
-separator: ---
-verticalSeparator: --
+separator: "\n---\n"
+verticalSeparator: "\n--\n"
 revealOptions:
   transition: 'fade'
 ---
