@@ -288,7 +288,15 @@ ASK: while this would seem to be a more flexible system, does it go too far to u
 
 --
 
-#### Note re Adverse Possession and Prescription
+#### *Land Registration Act*, SNS 2001, c 6-1
+
+<small style="text-align: left;">
+
+74 (1) Except as provided by Section 75, no person may obtain an interest in any parcel registered pursuant to this Act by adverse possession or prescription unless the required period of adverse possession or prescription was completed before the parcel was first registered.
+
+(2) Any interest in a parcel acquired by adverse possession or prescription before the date the parcel is first registered pursuant to this Act is absolutely void against the registered owner of the parcel in which the interest is claimed ten years after the parcel is first registered pursuant to this Act, …
+
+</small>
 
 <aside class="notes">
 
@@ -297,3 +305,101 @@ Under section 74-75 of Nova Scotia’s Land Registration Act, still possible to 
 Example of legislature’s attempts to balance priorities under land registry system (in favour of purchasers) against interests of those with right arising from long use/occupation.
 
 </aside>
+
+---
+
+### Mirror Principle
+
+Registration accurately reflects all the current facts of title. This includes the current owner and all registered interests in the land, such as mortgages, certain leases, and servitudes.
+
+<aside class="notes">
+
+Example: piece of land is registered by current owner, but current owner has entered into 5-year commercial lease with occupying business that the latter has failed to register on title. New party buys the land and registers their title: this registration gains PRIORITY over all prior unregistered interests, including the lease.
+
+Mirror principle abolishes an important equitable doctrine of NOTICE — i.e. that if purchaser of legal title has NOTICE (i.e. real, imputed or constructive knowledge) of existing equitable interest (such as a restrictive covenant), then the equitable interest gains priority over purchasers title (i.e. it is still enforceable against the purchaser)
+
+Policy shift in modern land registries toward certainty for purchasers = abolition of notice for all interests (legal and equitable).
+
+BUT, courts have struggled with this idea where it appears that the registered title holder is TAKING ADVANTAGE of the mirror principle specifically to defeat prior unregistered interests
+
+Courts have turned to the concept of FRAUD to attempt to draw a line between having “notice” of unregistered interests (which is allowed and does not itself amount to fraud) and “something worse” (which is not allowed).
+
+</aside>
+
+--
+
+### *Holt Renfrew & Co v Henry Singer Ltd*
+
+<aside class="notes">
+
+Dickson (lawyer for the vendor/seller, Thompson & Dynes)
+
+Pekarsky (lawyer for purchaser, Singer Ltd)
+
+Holt Renfrew (long-term lease holder)
+
+Building in Edmonton for sale by vendor, but has a long-term lease with Holt Renfrew (most recently from 1973 to 1990)
+
+PROBLEM: Holt Renfrew fails to REGISTER the lease on title at the time when it was made
+
+1978: Pekarsky approaches Dickson about his client purchasing the building; Dickson tells Pekarsky about lease and Pekarsky follows up by letter:
+
+> “With respect to the matter of the existing tenant of the property, we do not believe that situation would be a deterrent to our client’s interest.”
+
+Pekarsky subsequently finds out that Holt Renfrew’s lease is NOT REGISTERED; proceeds with negotiations about sale without disclosing this fact OR retracting his earlier statement in the letter.
+
+Parties reach a deal and Pekarsky immediately files a caveat in the land titles office (in effect, advanced notice of title interest to gain priority). Holt Renfrew finds out and subsequently files its own caveat to give notice of its lease interest. But vendor goes ahead with transfer to Singer.
+
+ISSUE: did Pekarsky’s conduct constitute FRAUD within the meaning of the Alta legislation, given that he knew about the prior unregistered interest?
+
+</aside>
+
+--
+
+#### *Land Titles Act*, RSA 2000, c L-4
+
+<small style="text-align: left;">
+
+203 Except in the case of fraud, no person ... is affected by notice direct, implied or constructive, of any trust or unregistered interest in the land, any role of law or equity to the contrary notwithstanding, and the knowledge that any trust or unregistered interest is in existence shall not itself be imputed as fraud.
+
+</small>
+
+<aside class="notes">
+
+S. 203 of Alta Act provides that:
+
+MIRROR PRINCIPLE: no transferee taking a transfer of registered title will be affected by a prior unregistered interest (e.g. lease interest)
+
+knowledge of any prior unregistered interest on the part of the transferee will NOT of itself be considered fraud (eliminates notice requirement from c/l)
+
+So question is: what DOES constitute “fraud” within meaning of the Act?
+
+Judges effectively agree on the appropriate test for “fraud”:
+
+1. Pekarsky had ACTUAL KNOWLEDGE of Holt’s unregistered interest and knew that that interest would be defeated by the sale and registration
+
+2. Pekarsky made a MISREPRESENTATION about his knowledge of Holt’s unregistered interest (and intention of his client to seek to defeat the lease) AND Dickson RELIED on (i.e. was misled by) the misrepresentation in agreeing to the deal
+
+If Perkarsky’s action met this test, then the lease would receive priority
+
+BUT judges differ on factual question of whether or not Dickson actually RELIED on Perkasky’s earlier statement
+
+McDermid (minority) = Dickson actually RELIED on Perkarsky’s earlier statement (finds that Thompson & Dynes would not have been willing to sell if they knew purchaser not bound by lease)
+
+Moir (majority) = was no RELIANCE on Pekarsky's statement, i.e. Dickson MISTAKENLY relied on the CERTIFICATE OF TITLE from the land registry (which listed the earlier 1950 caveat, but not the 1973 lease because it was never recorded), i.e. Dickson relied on his OWN mistake rather than Pekarsky’s misrepresentation
+
+KEY POINT = both judgments imply that if Pekarsky had not made the initial representation but simply stood by with knowledge that the sale would defeat HR’s lease, this would NOT have amounted to fraud.
+
+This reinforces the importance of the mirror principle: notice itself is not enough to invalidate the mirror principle and give registered interests priority.
+
+However, mirror principle (like curtain principle) has its limits: it won’t condone fraudulent behaviour.
+
+</aside>
+
+---
+
+## Recap
+
+- Curtain
+- Mirror
+- Net
