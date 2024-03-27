@@ -286,26 +286,6 @@ ASK: while this would seem to be a more flexible system, does it go too far to u
 
 </aside>
 
---
-
-#### *Land Registration Act*, SNS 2001, c 6-1
-
-<small style="text-align: left;">
-
-74 (1) Except as provided by Section 75, no person may obtain an interest in any parcel registered pursuant to this Act by adverse possession or prescription unless the required period of adverse possession or prescription was completed before the parcel was first registered.
-
-(2) Any interest in a parcel acquired by adverse possession or prescription before the date the parcel is first registered pursuant to this Act is absolutely void against the registered owner of the parcel in which the interest is claimed ten years after the parcel is first registered pursuant to this Act, …
-
-</small>
-
-<aside class="notes">
-
-Under section 74-75 of Nova Scotia’s Land Registration Act, still possible to claim adverse possession and easements by prescription against registered owner — however these rights have been significantly limited.
-
-Example of legislature’s attempts to balance priorities under land registry system (in favour of purchasers) against interests of those with right arising from long use/occupation.
-
-</aside>
-
 ---
 
 ### Mirror Principle
@@ -393,6 +373,32 @@ KEY POINT = both judgments imply that if Pekarsky had not made the initial repre
 This reinforces the importance of the mirror principle: notice itself is not enough to invalidate the mirror principle and give registered interests priority.
 
 However, mirror principle (like curtain principle) has its limits: it won’t condone fraudulent behaviour.
+
+</aside>
+
+--
+
+### *Alberta v McCulloch* (1991)
+
+Should a person who holds registered title be able to establish a numbered company and effect a transfer of title to that company in order to defeat another party's interest in the land? 
+
+--
+
+#### *Land Registration Act*, SNS 2001, c 6-1
+
+<small style="text-align: left;">
+
+74 (1) Except as provided by Section 75, no person may obtain an interest in any parcel registered pursuant to this Act by adverse possession or prescription unless the required period of adverse possession or prescription was completed before the parcel was first registered.
+
+(2) Any interest in a parcel acquired by adverse possession or prescription before the date the parcel is first registered pursuant to this Act is absolutely void against the registered owner of the parcel in which the interest is claimed ten years after the parcel is first registered pursuant to this Act, …
+
+</small>
+
+<aside class="notes">
+
+Under section 74-75 of Nova Scotia’s Land Registration Act, still possible to claim adverse possession and easements by prescription against registered owner — however these rights have been significantly limited.
+
+Example of legislature’s attempts to balance priorities under land registry system (in favour of purchasers) against interests of those with right arising from long use/occupation.
 
 </aside>
 
