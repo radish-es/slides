@@ -43,7 +43,7 @@ Ask students: what does this mean?
 
 --
 
-## Rule of Law
+### Rule of Law
 
 "People being governed by measures laid down in advance in general terms and enforced equally according to the terms in which they have been publicly promulgated." (Waldron 2016)
 
@@ -73,7 +73,7 @@ Instead, we are going to play off this idea of the "rule of law" to address the 
 
 ---
 
-### Myth #1: "Rule of the Common Law" 
+#### Myth #1: "Rule of the Common Law" 
 
 ![](harris-1749.jpg)
 
@@ -89,17 +89,19 @@ How does this myth work?
 
 ![](fox.jpg)
 
-A hunter spends all day pursuing a fox through the woods, finally shooting the animal from a distance. Before this first hunter can retrieve the body, a second hunter runs in, scoops it up, and takes it away. Who owns the fox? 
+<small>A hunter spends all day pursuing a fox through the woods, finally shooting the animal from a distance. Before this first hunter can retrieve the body, a second hunter runs in, scoops it up, and takes it away. Who owns the fox? </small>
 
 --
 
 ![](fox.jpg)
 
-A Mi'kmaw hunter spends all day pursuing *wowkwis* (fox) through the woods, finally shooting the animal from a distance. Before this first hunter can retrieve the body, a second, settler hunter runs in, scoops it up, and takes it away. Who owns the fox? 
+<small>A Mi'kmaw hunter spends all day pursuing *wowkwis* (fox) through the woods, finally shooting the animal from a distance. Before this first hunter can retrieve the body, a second, settler hunter runs in, scoops it up, and takes it away. Who owns the fox? </small>
 
 --
 
 ![](anglo-saxon-village.jpg)
+
+<small>Source: england-history.org/</small>
 
 <aside class="notes">
 
@@ -116,6 +118,8 @@ Anglo-Saxon England (small villages, local custom) -- why this arrangement of la
 ![](norman-conquest.jpg)
 
 Norman Conquest (1066)
+
+<small>Source: worldhistory.org/</small>
 
 <aside class="notes">
 
@@ -134,6 +138,8 @@ Norman Conquest (1066)
 ![](henry-ii.jpg)
 
 Henry II (1154-89)
+
+<small>Source: historiamag.com/</small>
 
 <aside class="notes">
 
@@ -198,7 +204,7 @@ Why is this a "myth"? *Isn't* law really about rules? To help explain this myth,
 
 ![](bedford-basin.jpg)
 
-<small>"Bedford Basin", Robert Peltey (1835)</small>
+<small>"Bedford Basin", Robert Peltey (1835) <br/>Source: Nova Scotia Archives</small>
 
 
 <aside class="notes">
@@ -263,7 +269,7 @@ While such a law does not have any formal bearing on the question of whether sla
 
 ![](delancey-woodin.jpg)
 
-<small>Statement of Claim</small>
+<small>Statement of Claim. Source: Nova Scotia Archives</small>
 
 
 <aside class="notes">
