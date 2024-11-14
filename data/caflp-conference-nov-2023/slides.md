@@ -47,7 +47,7 @@ For example, a small number of regional municipalities in BC and Metro Vancouver
 
 
 
-![](ns-solid-wate-regs.jpg){:height="80%" width="80%"}
+![](ns-solid-wate-regs.jpg)
 
 <aside class="notes">
 
@@ -59,7 +59,7 @@ NS has banned compostable organic material from its landfills since 1997. And mu
 
 --
 
-![](divert-audit-2024.jpg){:height="70%" width="70%"}
+![](divert-audit-2024.jpg)
 
 <small style="text-align: left;">Source: [Divert Nova Scotia Landfill Waste Audit 2023](https://divertns.ca/sites/default/files/researchreportsfiles/2024-04/2023%20NS%20Provincial%20Waste%20Audit.pdf)</small>
 
@@ -287,7 +287,7 @@ If we connect this discussion of police powers back to my earlier points about t
 
 #### Food Provisioning Bans in Public Spaces
 
-![](fnb.jpg){:height="70%" width="70%"}
+![](fnb.jpg)
 
 <small style="text-align: left;">Food Note Bombs Peterborough <br/> Source: *[Peterborough Examiner](https://www.thepeterboroughexaminer.com/news/council/food-not-bombs-handed-trespassing-notice-from-city-for-serving-food/article_3c047df2-05d7-5d48-aec4-2d1282f86798.html)*</small>
 
