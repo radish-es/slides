@@ -5,15 +5,10 @@ library(scales)
 library(dplyr)
 library(reshape2)
 
-
-
 waste <- read_csv("/Users/jamie/NextCloud/teaching/slides/data/caflp-conference-nov-2023/2024-divert-waste.csv")
 
 # waste <- waste[order(waste$percent, decreasing = TRUE),]
 # waste$percent <-factor(waste$percent, levels = as.character(waste$percent))
-
-
-
 
 # pie chart
 
@@ -32,6 +27,4 @@ waste %>%
   theme_void()
 
 # scale_fill_brewer(palette="Blues") +
-
-
 

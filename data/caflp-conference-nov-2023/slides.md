@@ -59,11 +59,11 @@ NS has banned compostable organic material from its landfills since 1997. And mu
 
 --
 
-##### 
+##### Combined Residential and ICI Waste, NS
 
 ![](divert-audit-2024.svg)
 
-<small style="text-align: left;">**Combined Residential and ICI Waste, NS** <br/> Source: [Divert Nova Scotia Landfill Waste Audit 2023](https://divertns.ca/sites/default/files/researchreportsfiles/2024-04/2023%20NS%20Provincial%20Waste%20Audit.pdf)</small>
+<small style="text-align: left;">Source: [Divert Nova Scotia Landfill Waste Audit 2023](https://divertns.ca/sites/default/files/researchreportsfiles/2024-04/2023%20NS%20Provincial%20Waste%20Audit.pdf)</small>
 
 <aside class="notes">
 
