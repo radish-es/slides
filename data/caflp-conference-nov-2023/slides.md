@@ -31,7 +31,7 @@ But the more I think about it, the more I wonder if we really understand much ab
 
 #### An Example: Organics Bans
 
-![](halifax.png)
+![](halifax.jpg)
 
 <small style="text-align: left;">Source: *[Halifax Regional Municipality](https://www.halifax.ca/home-property/garbage-recycling-green-cart/green-carts-leaf-yard-material/food-isnt-garbage)*</small>
 
@@ -47,7 +47,7 @@ For example, a small number of regional municipalities in BC and Metro Vancouver
 
 
 
-![](ns-solid-wate-regs.png){:height="80%" width="80%"}
+![](ns-solid-wate-regs.jpg){:height="80%" width="80%"}
 
 <aside class="notes">
 
@@ -59,7 +59,7 @@ NS has banned compostable organic material from its landfills since 1997. And mu
 
 --
 
-![](divert-audit-2024.png){:height="70%" width="70%"}
+![](divert-audit-2024.jpg){:height="70%" width="70%"}
 
 <small style="text-align: left;">Source: [Divert Nova Scotia Landfill Waste Audit 2023](https://divertns.ca/sites/default/files/researchreportsfiles/2024-04/2023%20NS%20Provincial%20Waste%20Audit.pdf)</small>
 
