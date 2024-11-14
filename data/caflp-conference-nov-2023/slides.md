@@ -29,7 +29,7 @@ But the more I think about it, the more I wonder if we really understand much ab
 
 --
 
-#### An Example: Organics Bans
+#### An Example: Organic Waste Bans
 
 ![](halifax.jpg)
 
@@ -81,7 +81,7 @@ To me, the interesting question is not so much about "effectiveness", but about 
 
 --
 
-### Organics bans 🗑️ are...
+### Organic waste bans 🗑️ are...
 
 - Highly formalized (encoded in regs)
 - Bright-line rules (universal in application)
@@ -100,6 +100,32 @@ Some notable features of organics ban:
 In other words, organics bans look like much of conventional environmental governance--i.e.classic top-down regulation in the liberal welfare state. 
 
 But the question is whether these are good or appropriate regulatory tools for *municipal* governments. The data on compliance could have many explanations--but I'm interested in understanding whether or not some aspect of this story is about the "fit" between certain kinds regulatory tools and the "governmentalities" specific to local government. 
+
+</aside>
+
+--
+
+#### Food Provisioning Bans in Public Spaces
+
+![](fnb.jpg)
+
+<small style="text-align: left;">Food Not Bombs Peterborough <br/> Source: *[Peterborough Examiner](https://www.thepeterboroughexaminer.com/news/council/food-not-bombs-handed-trespassing-notice-from-city-for-serving-food/article_3c047df2-05d7-5d48-aec4-2d1282f86798.html)*</small>
+
+<aside class="notes">
+
+- FNB had been serving free meals to unhoused people and others in need in Confederation Park across from City Hall for the past two decades.
+
+- Preparing meals from donated "surplus" food from farmers, grocers and other community sources. 
+
+- In 2019 Peterborough Council enacted a new Parks and Facilities By-law that prohibited BOTH "tenting" and "offering food" in public parks without a permit. Part of a larger trend in bylaws aimed at deterring use of public parks by unhoused people amid housing crisis. 
+
+- Idea behind this bylaw was that Council was regulating the "public disorder" of sheltering and other provisioning of basic needs in public parks. 
+
+- FNB protested application of the bylaw in 2021 by continuing to serve food in the square. 
+
+- Acknowledging that as an "unincorporated association of individuals" FNB lacked "legal personhood" and therefore had no way to apply for a permit, city officials then worked with FNB and Council to negotiate an amendment to bylaw allowing the city to grant exemptions, on a case by case basis, for specific activities in Confederation Square.
+
+- Result was that FNB was permitted to continue its participation in "circular economy" food provisioning by a kind of negotiated and highly-discretionary exemption in the local bylaw. 
 
 </aside>
 
@@ -143,6 +169,8 @@ The circular economy is an attempt to transition away from linear economic proce
 </aside>
 
 --
+
+### Circular Economy ♻️
 
 ![](property-public-order.jpg)
 
@@ -269,7 +297,7 @@ If we connect this discussion of police powers back to my earlier points about t
 
 --
 
-### Organics bans 🗑️ are...
+### Organic waste bans 🗑️ are...
 
 - Highly formalized (encoded in regs)
 - Bright-line rules (universal in application)
@@ -283,27 +311,15 @@ If we connect this discussion of police powers back to my earlier points about t
 - Discretionary (particular to context )
 - Designed for places (structure property)
 
----
+--
 
 #### Food Provisioning Bans in Public Spaces
 
 ![](fnb.jpg)
 
-<small style="text-align: left;">Food Note Bombs Peterborough <br/> Source: *[Peterborough Examiner](https://www.thepeterboroughexaminer.com/news/council/food-not-bombs-handed-trespassing-notice-from-city-for-serving-food/article_3c047df2-05d7-5d48-aec4-2d1282f86798.html)*</small>
+<small style="text-align: left;">Food Not Bombs Peterborough <br/> Source: *[Peterborough Examiner](https://www.thepeterboroughexaminer.com/news/council/food-not-bombs-handed-trespassing-notice-from-city-for-serving-food/article_3c047df2-05d7-5d48-aec4-2d1282f86798.html)*</small>
 
 <aside class="notes">
-
-- FNB had been serving free meals to unhoused people and others in need in Confederation Park across from City Hall for the past two decades.
-
-- FNB participated in the circular food economy by preparing meals from donated "surplus" food from farmers, grocers and other community sources. 
-
-- In 2019 Peterborough Council enacted a new Parks and Facilities By-law that prohibited BOTH "tenting" and "offering food" in public parks without a permit. Part of a larger trend in bylaws aimed at deterring use of public parks amid housing crisis. 
-
-- Idea behind this bylaw was that Council was regulating not only public spaces but "public disorder" in the form tent cities used by unhoused people to meet their basic needs. By targeting another of those basic needs--the need to eat--Council was similarly regulating, i.e. attempting to prohibit or move elsewhere, this source of perceived disorder. 
-
-- FNB protested application of the bylaw in 2021 by continuing to serve food in the square. 
-
-- Acknowledging that as an "unincorporated association of individuals" FNB lacked "legal personhood" and therefore had no way to apply for a permit, city officials then worked with FNB and Council to negotiate an amendment to bylaw allowing the city to grant exemptions, on a case by case basis, for specific activities in Confederation Square.
 
 - Result was that FNB was permitted to continue its participation in the circular food economy by a kind of negotiated and highly-discretionary loophole through which the city attempted to negotiate competing conceptions and sources of "public disorder" (sheltering by unhoused people in public parks and wasted food exiting the circular economy)
 
