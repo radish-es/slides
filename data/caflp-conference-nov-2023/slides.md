@@ -329,4 +329,11 @@ NB: I'm not saying that this is a "good" resolution -- only that it is descripti
 
 --
 
+### Why do we care?
+
+- range of local action
+- collaborative governance 
+
+--
+
 Thanks!
