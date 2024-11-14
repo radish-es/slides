@@ -144,8 +144,7 @@ The circular economy is an attempt to transition away from linear economic proce
 
 --
 
-<!-- .slide: data-background="property-public-order.jpg" -->
-
+![](property-public-order.jpg)
 
 
 <aside class="notes">
