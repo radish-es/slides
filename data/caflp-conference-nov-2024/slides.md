@@ -2,7 +2,7 @@
 theme: serif
 transition: "slide"
 slideNumber: false
-title: "Food Waste: Who Needs the Municipal Police Power?"
+title: "Municipal Food Waste Governance: Property, Public Order, and Police-like Powers"
 separator: "\n---\n"
 verticalSeparator: "\n--\n"
 revealOptions:
