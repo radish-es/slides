@@ -11,13 +11,15 @@ revealOptions:
 
 ### Municipal Food Waste Governance 🥕♻️🏡
 
-#### Property, Public Order, and Police
+#### Property, Public Order, and Police-like Powers
 
 <p style="font-size: 0.5em">Jamie Baxter, Schulich School of Law, Dalhousie</p> 
 
 --
 
-### How do local governments *actually* govern food waste in practice?
+### How do local govs govern food waste, really?
+
+Municipalities are <u>weird</u>.
 
 <aside class="notes">
 
@@ -29,7 +31,7 @@ But the more I think about it, the more I wonder if we really understand much ab
 
 --
 
-#### An Example: Organic Waste Bans
+#### An example: **organic waste bans**
 
 ![](halifax.jpg)
 
@@ -45,8 +47,6 @@ For example, a small number of regional municipalities in BC and Metro Vancouver
 
 --
 
-
-
 ![](ns-solid-wate-regs.jpg)
 
 <aside class="notes">
@@ -59,11 +59,10 @@ NS has banned compostable organic material from its landfills since 1997. And mu
 
 --
 
-##### Combined Residential and ICI Waste, NS
+##### Residential and ICI Waste, Nova Scotia (2023)
 
 ![](divert-audit-2024.svg)
 
-<small style="text-align: left;">Source: [Divert Nova Scotia Landfill Waste Audit 2023](https://divertns.ca/sites/default/files/researchreportsfiles/2024-04/2023%20NS%20Provincial%20Waste%20Audit.pdf)</small>
 
 <aside class="notes">
 
@@ -87,7 +86,7 @@ To me, the interesting question is not so much about "effectiveness", but about 
 
 - Highly formalized (encoded in regs)
 - Bright-line rules (universal in application)
-- Designed for people (structure incentives)
+- Applied to people (structure incentives)
 
 <aside class="notes">
 
@@ -133,7 +132,7 @@ But the question is whether these are good or appropriate regulatory tools for *
 
 ---
 
-### How do local governments *actually* govern food waste?
+### How do local govs govern food waste, really?
 
 <hr>
 
@@ -146,9 +145,9 @@ Claim: we have a lot of great ideas about things that local governments can do t
 
 Thesis: this gap in our understanding is related to a deeper blindspot in Canadian municipal law about the status and meaning of what in other times and places has been called the *municipal police power*: that is, the power to pass bylaws for the regulation of public order (including public health, safety, and morality). 
 
-The police power--or its Canadian equivalent--is thought to operate according to a very different set of logics, or "governmentality", than the classic liberal regulatory governance we see at work in organics bans. 
+The police power--or its Canadian equivalent--is thought to operate according to a very different set of logics, or "governmentality", than the classic liberal-state regulatory governance we see at work in organics bans. 
 
-My own sense is that if we can better understand the degree to which a Canadian version of the police power still operates in contemporary local government, the we may be able to answer the question of how municipalities govern food waste and possibly to the question of how they *should* govern good waste to be most effective in their role. 
+My own sense is that if we can better understand the degree to which a Canadian version of the police power still operates in contemporary local government, then we may be able to answer the question of how municipalities govern food waste and possibly to the question of how they *should* govern good waste to be most effective in their role. 
 
 Two steps in my argument:
 
@@ -166,39 +165,39 @@ Two steps in my argument:
 
 <aside class="notes">
 
-The circular economy is an attempt to transition away from linear economic processes and to reconceive "waste" as resource--a valued and valuable commodity that is both produced by and will serve as an input into linked sites of economic production. 
+The circular economy is essentially our attempt to transition away from linear economic processes and to reconceive "waste" as resource--a valued and valuable commodity that is both produced by and will serve as an input into linked sites or nodes of economic production. 
 
 </aside>
 
 --
 
-### Circular Economy ♻️
+#### Law ⚖️ in the Circular Economy ♻️
 
 ![](property-public-order.jpg)
 
 
 <aside class="notes">
 
-For food "waste", the CE means primarily re-envisioning unused food as both a private and public asset that can be:
+For food "waste", the CE means primarily re-conceptualizing unused food as both a private and public asset that can be:
 
-- redirected to other consumers;
+- provisioned to other consumers (e.g. community orgs for distribution);
 - composted for re-integration into agricultural production or other soil-based uses;
 - re-purposed for non-human animal food; or 
 - collected as an input for biogas production 
 
 But we might also say that the CE has two particular *legal* consequences:
 
-(1) CE presupposes the "propertization" of formerly valueless goods by reframing them as valuable inputs into some further process of economic production. 
+(1) CE generates demand for property rights in formerly valueless goods by reframing them as valuable inputs into some further process of economic production. 
 
 - This could lead to regimes of private ownership, public ownership or even the development and governance of a commons--or some overlap of each of these.
 
-- Notice that this "propertization" of food waste doesn't just shift property relations around the food itself, it also, potentially, alters the legal status of places involved in its production. Private homes, for example, as generators of food waste suddenly start to look like sites of economic production that open up new forms of possible regulation. 
+- Notice that this making of property in food waste doesn't just shift property relations around the food itself, it also, potentially, alters the legal status of places involved in its production. Private homes, for example, as generators of food waste suddenly start to look like sites of economic production that open up new forms of economic regulation. 
 
 (2) CE transforms food "waste" into a source of public disorder.
 
 - Tora Holmerg and colleagues have observed that sustaining the  circular flows envisioned by CE advocates places a heavy reliance on what they call "make-up work"--the constant "tidying" required to prevent "leaks" of resources out of the circular system and to sustain the neat ordering of that system on which circularity depends. 
 
-- In the CE model, conventional, linear economic flows therefore become a domain of "disorder" into which valuable resources escape. 
+- In the CE model, such "leaks" therefore become a pervasive source of public disorder associated with the linear economy. Part of the "make-up" work of governance is then an attempt to restore public order. 
 
 - Part of the CE ordering process comes with the making of property rights in food waste itself, which incentivizes various actors to avoid waste and disorder.
 
@@ -311,7 +310,7 @@ If we connect this discussion of police powers back to my earlier points about t
 
 - Informal (encoded in practices)
 - Discretionary (particular to context )
-- Designed for places (structure property)
+- Applied to places (regulate property/spaces)
 
 --
 
@@ -331,9 +330,18 @@ NB: I'm not saying that this is a "good" resolution -- only that it is descripti
 
 --
 
-### Why do we care?
+### Other police-like examples:
 
-- range of local action
+- Site-plan approvals
+- Sustainable procurement
+- Business licensing 
+
+--
+
+### Why do we care? 🤷
+
+- scale and scope of "local" governance
+- self-understanding of municipal action
 - collaborative governance 
 
 --
