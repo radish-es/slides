@@ -13,7 +13,7 @@ revealOptions:
 
 #### Property, Public Order, and Police-like Powers
 
-<p style="font-size: 0.5em">Jamie Baxter, Schulich School of Law, Dalhousie</p> 
+<p style="font-size: 0.5em">Jamie Baxter, Schulich School of Law, Dalhousie <br/> slides @ https://t.ly/5dxws</p> 
 
 --
 
