@@ -302,15 +302,15 @@ If we connect this discussion of police powers back to my earlier points about t
 
 - Highly formalized (encoded in regs)
 - Bright-line rules (universal in application)
-- Designed for people (structure incentives)
+- Applied through people (structure incentives)
 
 --
 
-### Police-like regulations 🏡 are...
+### Police-like regs 🏡 tend to be...
 
 - Informal (encoded in practices)
 - Discretionary (particular to context )
-- Applied to places (regulate property/spaces)
+- Applied through places (regulate property/spaces)
 
 --
 
