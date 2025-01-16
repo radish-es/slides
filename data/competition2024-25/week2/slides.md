@@ -12,7 +12,7 @@ revealOptions:
 
 # Week 2 
 
-Introduction to Competition Law
+Introduction to Competition Law 
 
 --
 
