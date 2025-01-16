@@ -7,7 +7,7 @@ jobs:
     name: Directory Listings Index
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
           ref: gh-pages    #checkout different branch
 
@@ -17,7 +17,7 @@ jobs:
           FOLDER: data      #directory to generate index
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3.0.1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: 'data'      # upload generated folder
   

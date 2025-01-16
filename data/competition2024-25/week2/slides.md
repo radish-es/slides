@@ -10,7 +10,7 @@ revealOptions:
   transition: 'fade'
 ---
 
-# Week 2 
+# Week 2
 
 Introduction to Competition Law 
 
